@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 
 public class ExtraCredit {
-    static DecimalFormat formatter = new DecimalFormat("#.##");
 
 
     public static String calculateTip(int people, int percent, double cost, String items) {
